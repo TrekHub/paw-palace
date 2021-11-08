@@ -36,9 +36,7 @@ Dogs.forEach((newDog) => {
    
     galleryItem.classList.add("col-lg-3", "m-2")
 
-   
-
-    // <div class="col-lg-3 mt-3">  </div>
+  
 
     galleryItem.innerHTML = `
   
